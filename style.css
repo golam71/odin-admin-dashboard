@@ -258,3 +258,7 @@ p{
 .navbar{
   background-color: #141d2b;
 }
+
+*{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
